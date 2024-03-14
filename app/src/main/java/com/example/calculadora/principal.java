@@ -15,6 +15,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class principal extends AppCompatActivity {
 
+    //prueba
+    
     private Button sig;
     private EditText nombre;
 
